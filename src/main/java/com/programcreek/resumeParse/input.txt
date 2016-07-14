@@ -1,0 +1,44 @@
+Description
+
+Software Engineer
+
+Opportunity
+
+Autodesk is the world leader in design software with over $2B in revenue and customers in every industry you can think of. As a global leader in 3D design, engineering and entertainment software, Autodesk helps people imagine, design, and create a better world. Autodesk accelerates better design through an unparalleled depth of experience and a broad portfolio of software to give customers the power to solve their design, business and environmental challenges.
+
+Candidate
+You are a talented Software Engineer who is passionate about code quality, usability, and technology
+You excel at working with multidisciplinary teams to deliver great user experiences
+You are a power web user keeping yourself up-to-date with the latest trends and breakthroughs in web development technology
+You have a strong record of project execution and completion and have experience with Scrum and agile development practices
+You love working with smart people and want to be part of a team
+You are excited by the challenge of pushing the limits of the web platform to deliver disruptive, innovative solutions to the world that will delight your customers
+
+Responsibilities
+
+Contribute to the design and development of new web applications and features
+Maintain and improve existing web applications
+Profile and optimize the code to get the best possible performance across browsers and operating systems
+Work closely with designers and other developers in a tightly knit, agile team
+Demonstrate a dedication to code quality
+Keep your ear to the ground and help us incorporate industry best practices and important developments into our products
+
+Qualifications
+
+BS/MS degree in Computer Science, Engineering or a related subject
+3+ years of professional experience
+2+ years experience with web application technologies
+Intermediate knowledge of MySQL or PostgreSQL
+Strong understanding of object-oriented programming, the MVC paradigm, and Service-Oriented Design
+Experience and interested in Frontend Development
+Experience with third-party APIs and Web Services
+Working knowledge of the general web application landscape, architectures, trends, and emerging technologies
+Experience with Agile development, preferably Scrum
+Experience with Perforce deployment and code management
+Success Factors
+Demonstrated commitment to high quality user facing and back end code that is usable, maintainable and well thought out
+Ability to work both collaboratively and independently
+Self-directed learner who has quickly learned new programming languages
+Open to modification of the work we do, based on customer feedback and other data we acquire
+Self motivated
+Get Stuff Done
