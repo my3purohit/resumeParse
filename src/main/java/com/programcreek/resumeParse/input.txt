@@ -1,44 +1,33 @@
-Description
+Think about impacting 1 out of every 2 people online--in innovative and imaginative ways that are uniquely Yahoo. We do just that each and every day, and you could too. After all, it's big thinkers like you who will create the next generation of video experiences for consumers and advertisers across the globe. Now's the time to show the world what you've got and put your ideas to work for over half a billion people. 
 
-Software Engineer
+The Video & Emerging Product group is building new consumer experiences that reach hundreds of millions of users every day. Our products range from content and entertainment to search, to the re-imagination of video. We are looking for innovative, entrepreneurial, and enthusiastic engineers to build-up our newly created Video team as we drive the evolution of our current portfolio into new technology areas and market segments. We are committed to delivering a superb user experience and are just scratching the surface! Together, we are building great products, driving innovation, and most importantly delighting our users. 
 
-Opportunity
+The ideal candidate is a technically strong engineer who likes a dynamic environment and a mix of design and development. This candidate must be highly proficient on web presentation technologies (HTML, CSS and JavaScript) and and comfortable with navigating the entire serving stack, from browser to API. 
 
-Autodesk is the world leader in design software with over $2B in revenue and customers in every industry you can think of. As a global leader in 3D design, engineering and entertainment software, Autodesk helps people imagine, design, and create a better world. Autodesk accelerates better design through an unparalleled depth of experience and a broad portfolio of software to give customers the power to solve their design, business and environmental challenges.
+Minimum Qualifications: 
 
-Candidate
-You are a talented Software Engineer who is passionate about code quality, usability, and technology
-You excel at working with multidisciplinary teams to deliver great user experiences
-You are a power web user keeping yourself up-to-date with the latest trends and breakthroughs in web development technology
-You have a strong record of project execution and completion and have experience with Scrum and agile development practices
-You love working with smart people and want to be part of a team
-You are excited by the challenge of pushing the limits of the web platform to deliver disruptive, innovative solutions to the world that will delight your customers
+BS in Computer Science and at least 4 years of professional web application development; OR 
 
-Responsibilities
+MS in Computer Science and at least 2 years of professional web application development; OR 
 
-Contribute to the design and development of new web applications and features
-Maintain and improve existing web applications
-Profile and optimize the code to get the best possible performance across browsers and operating systems
-Work closely with designers and other developers in a tightly knit, agile team
-Demonstrate a dedication to code quality
-Keep your ear to the ground and help us incorporate industry best practices and important developments into our products
+Equivalent experience 
 
-Qualifications
+Command of web standards, HTML5, CSS-layouts, DOM scripting, cross-browser compatibility & browser degradation strategies 
 
-BS/MS degree in Computer Science, Engineering or a related subject
-3+ years of professional experience
-2+ years experience with web application technologies
-Intermediate knowledge of MySQL or PostgreSQL
-Strong understanding of object-oriented programming, the MVC paradigm, and Service-Oriented Design
-Experience and interested in Frontend Development
-Experience with third-party APIs and Web Services
-Working knowledge of the general web application landscape, architectures, trends, and emerging technologies
-Experience with Agile development, preferably Scrum
-Experience with Perforce deployment and code management
-Success Factors
-Demonstrated commitment to high quality user facing and back end code that is usable, maintainable and well thought out
-Ability to work both collaboratively and independently
-Self-directed learner who has quickly learned new programming languages
-Open to modification of the work we do, based on customer feedback and other data we acquire
-Self motivated
-Get Stuff Done
+Proficient in Object-Oriented JavaScript programming and at least one of the modern JS toolkits (e.g. jQuery, etc.) 
+
+Proficient in server-side coding in at least one of the following languages: Node.JS (preferably Express or React), PHP, Java, Perl, MongoDB. 
+
+Familiar with client and server performance optimization techniques, profiling, debugging 
+
+
+
+Desired qualifications: 
+
+Understanding of the full-stack of a web application 
+
+Experience with test engineering including unit testing and functional test automation with tools such as jUnit, Selenium, HTMLUnit, or PhantomJS 
+
+Experience with continuous integration philosophies and practices 
+
+Productive in a UNIX environment

@@ -1,0 +1,53 @@
+      MAITHRI PUROHIT
+          1129 W30th Street #4, Los Angeles CA-90007|  (213) 400-5074 |  maithrip@usc.edu
+           https://www.linkedin.com/in/maithri-purohit-43725945
+EDUCATION
+University of Southern California, Los Angeles, CA	            			                                 May 2017 
+Master of Science, Computer Science 			            			                                 	
+Sri Jayachamarajendra College of Engineering, Mysore, India                                         		    May 2013  
+              Bachelor of Engineering, Information Science				
+	    		    
+	TECHNICAL SKILLS
+	Programming: Java, C, PHP, JavaScript, jQuery, Shell, HTML, CSS, AngularJS, NodeJS, Python
+	Databases: Oracle, MySQL, NoSQL, DB2, PostgreSQL, PostGIS, SQLite
+	Operating Systems: UNIX (Linux, Solaris, HPUX, CentOS), Windows, Weenix
+	Tools/Frameworks: Apache,REST,AJAX,Hadoop,Maven,Tomcat,Docker,Git,Android,BootStrap,Jenkins
+	Related Coursework: Operating Systems, Algorithms, Database Systems, Web Technologies
+
+	WORK EXPERIENCE
+             Software Engineer- Informatica, Bangalore, India	 		 July 2013 – June 2015
+•	Served as a key member of the Platform (back end) team providing Infrastructure to support Informatica products gaining experience with Distributed Systems, Databases and Security (Kerberos, SSL) 
+•	Co-ordinated and collaborated with multiple teams to work on a project involving integration of enterprise Informatica with AWS using EC2, S3 and RDS to minimize user installation effort.
+•	Excelled in deploying Maven projects on Tomcat and designing Junit tests for API testing for features like High Availability and Resiliency.
+             Software Engineer intern –  Informatica, Bangalore, India    			Jan 2013 – July 2013
+•	Contributed actively to the development and implementation of automation frameworks for various Server side components using Shell and Bash scripting methods that reduced manual testing efforts.
+•	Designed and developed the automation module for testing thin clients using Selenium WebDriver 
+•	Actively participated in Agile and Scrum methodology as part of the Software Development Cycle(SDLC)
+             Full Stack Developer – USC, Department of Cultural Relations and Events			 Nov 2015-present
+•	Conceived and developed responsive LAMP dynamic web applications using HTTP and REST services for different University events such as USC Commencement and Tailgate used real time by customers.
+•	Independently developed the Tailgate registration web application system using REST services with AngularJS as an MVC framework, integrated with PayPal payment API to enable online payments.
+•	Appreciated for innovatively developing a system to display translated speeches in real time to Chinese and Spanish.
+             PROJECTS
+•	Android app - Weekly weather info	
+o	Designed an Android app that retrieves weather info via remote server with a REST API call
+o	Utilized third party APIs such as Facebook, Google Maps and OpenWeather Map APIs to improve user experience
+•	Movie trailers using MEAN stack
+o	Implemented a web application to display Movie listings and trailers using MongoDB and NodeJS
+o	Integrated the client side developed in AngularJS with ExpressJS adding CRUD capabilities 
+•	Web applications support on the Cloud			   
+o	Proficiently designed web applications to support them on a cloud environment using virtualization with the help of AWS
+o	Improved the overall performance by provisioning a database using RDS and EC2 load balancer.
+•	Spatial data visualization using Google Earth			  
+o	Visualized spatial data coordinates retrieved from PostGIS database on Google Earth.
+o	Consolidated location coordinates through a KML file and converted KML to a shapefile using QGIS and ArcGIS.
+
+
+
+  
+
+
+	
+	
+	
+
+
